@@ -1,0 +1,12 @@
+customization:
+  distribution_code_name: Weasel
+  distribution_version: 0.17.0
+  generator: "Weasel::UIStyleSettings"
+  modified_time: "Fri Feb 13 14:21:59 2026"
+  rime_version: 1.13.1
+patch:
+  "style/color_scheme": google
+  show_notifications: false
+  show_notifications_when: never
+  "style/font_point": 12
+  
